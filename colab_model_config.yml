@@ -21,7 +21,7 @@ model:
       activation: LeakyReLU
     head:
       name: NanoDetPlusHead
-      num_classes: 80
+      num_classes: 29
       input_channel: 128
       feat_channels: 128
       stacked_convs: 2
@@ -46,7 +46,7 @@ model:
     # Auxiliary head, only use in training time.
     aux_head:
       name: SimpleConvHead
-      num_classes: 80
+      num_classes: 29
       input_channel: 256
       feat_channels: 256
       stacked_convs: 4
