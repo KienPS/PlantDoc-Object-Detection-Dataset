@@ -1,3 +1,10 @@
+This is a forked repository, with dataset rearranged for model training.
+
+The pre-trained model (trained with [Nanodet](https://github.com/RangiLyu/nanodet)) can be found [here](https://drive.google.com/drive/folders/1CTztPDlxcY-6EeKGrR4PG7xftru1p4v5?usp=share_link)
+
+<hr/>
+
+
 # PlantDoc: A Dataset for Visual Plant Disease Detection
 
 This repository contains the PlantDoc dataset used for benchmarking classification models in the paper titled "PlantDoc: A Dataset for Visual Plant Disease Detection" which was accepted in the Research Track at ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2020).
